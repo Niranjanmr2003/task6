@@ -1,0 +1,16 @@
+.details {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.details h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.details p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333;
+}
